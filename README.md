@@ -1,4 +1,6 @@
-<h1>oiiiiii, veja um pouco sobre mim!</h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+veja+um+pouco+sobre+mim!;" />
+</h1>
 
 - 👋 Oi, eu sou camila Taube
 - 👀 Eu estou interessada em front end
@@ -7,6 +9,8 @@
 - 📫 Entre em contato comigo pelo meu email camila.dossantos1313@gmail.com
 - ⚡ Você é aquilo que pratica!
  <br>
+
+ ![snake gif](https://github.com/CamilaTaube1717/main.yml/blob/output/github-contribution-grid-snake.svg)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   <br><br>
@@ -25,6 +29,17 @@
   <a href="https://www.linkedin.com/in/camiladossantostaube" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://w.app/vs7XxD" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+
+<br>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigada+pela+atenção!;" />
+</h1>
+
+
+
+
+
+
 
 <!---
 CamilaTaube17/CamilaTaube17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
