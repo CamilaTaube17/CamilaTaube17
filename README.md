@@ -8,7 +8,7 @@
 - ⚡ Você é aquilo que pratica!
  <br>
 
- ![Snake animation](https://github.com/CamilaTaube17/CamilaTaube17/edit/main/README.md)
+ ![Snake animation](https://github.com/CamilaTaube17)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   <br><br>
